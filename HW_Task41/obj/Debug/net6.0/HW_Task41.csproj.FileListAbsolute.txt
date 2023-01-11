@@ -1,0 +1,15 @@
+F:\HomeWork\HW\HW_Task41\bin\Debug\net6.0\HW_Task41.exe
+F:\HomeWork\HW\HW_Task41\bin\Debug\net6.0\HW_Task41.deps.json
+F:\HomeWork\HW\HW_Task41\bin\Debug\net6.0\HW_Task41.runtimeconfig.json
+F:\HomeWork\HW\HW_Task41\bin\Debug\net6.0\HW_Task41.dll
+F:\HomeWork\HW\HW_Task41\bin\Debug\net6.0\HW_Task41.pdb
+F:\HomeWork\HW\HW_Task41\obj\Debug\net6.0\HW_Task41.csproj.AssemblyReference.cache
+F:\HomeWork\HW\HW_Task41\obj\Debug\net6.0\HW_Task41.GeneratedMSBuildEditorConfig.editorconfig
+F:\HomeWork\HW\HW_Task41\obj\Debug\net6.0\HW_Task41.AssemblyInfoInputs.cache
+F:\HomeWork\HW\HW_Task41\obj\Debug\net6.0\HW_Task41.AssemblyInfo.cs
+F:\HomeWork\HW\HW_Task41\obj\Debug\net6.0\HW_Task41.csproj.CoreCompileInputs.cache
+F:\HomeWork\HW\HW_Task41\obj\Debug\net6.0\HW_Task41.dll
+F:\HomeWork\HW\HW_Task41\obj\Debug\net6.0\refint\HW_Task41.dll
+F:\HomeWork\HW\HW_Task41\obj\Debug\net6.0\HW_Task41.pdb
+F:\HomeWork\HW\HW_Task41\obj\Debug\net6.0\HW_Task41.genruntimeconfig.cache
+F:\HomeWork\HW\HW_Task41\obj\Debug\net6.0\ref\HW_Task41.dll

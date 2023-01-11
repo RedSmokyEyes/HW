@@ -1,0 +1,15 @@
+F:\HomeWork\HW\HW_Task50\bin\Debug\net6.0\HW_Task50.exe
+F:\HomeWork\HW\HW_Task50\bin\Debug\net6.0\HW_Task50.deps.json
+F:\HomeWork\HW\HW_Task50\bin\Debug\net6.0\HW_Task50.runtimeconfig.json
+F:\HomeWork\HW\HW_Task50\bin\Debug\net6.0\HW_Task50.dll
+F:\HomeWork\HW\HW_Task50\bin\Debug\net6.0\HW_Task50.pdb
+F:\HomeWork\HW\HW_Task50\obj\Debug\net6.0\HW_Task50.csproj.AssemblyReference.cache
+F:\HomeWork\HW\HW_Task50\obj\Debug\net6.0\HW_Task50.GeneratedMSBuildEditorConfig.editorconfig
+F:\HomeWork\HW\HW_Task50\obj\Debug\net6.0\HW_Task50.AssemblyInfoInputs.cache
+F:\HomeWork\HW\HW_Task50\obj\Debug\net6.0\HW_Task50.AssemblyInfo.cs
+F:\HomeWork\HW\HW_Task50\obj\Debug\net6.0\HW_Task50.csproj.CoreCompileInputs.cache
+F:\HomeWork\HW\HW_Task50\obj\Debug\net6.0\HW_Task50.dll
+F:\HomeWork\HW\HW_Task50\obj\Debug\net6.0\refint\HW_Task50.dll
+F:\HomeWork\HW\HW_Task50\obj\Debug\net6.0\HW_Task50.pdb
+F:\HomeWork\HW\HW_Task50\obj\Debug\net6.0\HW_Task50.genruntimeconfig.cache
+F:\HomeWork\HW\HW_Task50\obj\Debug\net6.0\ref\HW_Task50.dll
